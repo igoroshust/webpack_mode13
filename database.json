@@ -1,0 +1,15 @@
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" },
+  "contacts": [
+    { "id": 1, "name": "Igor", "email": "igoroshust@yandex.ru", "number": "+79999999999"},
+    { "id": 2, "name": "Hleb", "email": "somehleb@yandex.ru", "number": "+78888888888"},
+    { "id": 3, "name": "Ivan", "email": "someivan@yandex.ru", "number": "+77777777777"},
+    { "id": 4, "name": "Rita", "email": "somerita@yandex.ru", "number": "+76666666666"}
+  ]
+}
